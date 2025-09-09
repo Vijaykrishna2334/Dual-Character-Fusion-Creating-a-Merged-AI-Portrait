@@ -26,7 +26,9 @@ This sophisticated workflow provides a streamlined way to combine multiple custo
 
 ### Workflow
 
-![App Screenshot](workflow.png)
+![App Screenshot](Examples/ComfyUI_00132_.png)
+
+
 
 
 
