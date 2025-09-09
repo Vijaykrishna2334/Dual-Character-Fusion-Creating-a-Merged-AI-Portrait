@@ -28,9 +28,13 @@ This sophisticated workflow provides a streamlined way to combine multiple custo
 
 ![App Screenshot](Examples/ComfyUI_00132_.png)
 
-
-![App Screenshot](Examples/ComfyUI_00238_.png)
-
 ![App Screenshot](Examples/ComfyUI_temp_aheum_00010_.png)
+
+![App Screenshot](Examples/ComfyUI_temp_aheum_00039_.png)
+
+![App Screenshot](Examples/ComfyUI_temp_svxaq_00002_.png)
+
+![App Screenshot](Examples/ComfyUI_temp_tqozi_00024_.png)
+
 
 
