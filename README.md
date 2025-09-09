@@ -27,7 +27,9 @@ This sophisticated workflow provides a streamlined way to combine multiple custo
 ### Examples
 
 ![App Screenshot](twoloras.png)
+### Watch the Video
 
+[![Watch the video](https://img.youtube.com/vi/Mhi9ph3Dx0M/hqdefault.jpg)](https://www.youtube.com/watch?v=Mhi9ph3Dx0M)
 
 ![App Screenshot](Examples/ComfyUI_00132_.png)
 
