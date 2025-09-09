@@ -24,11 +24,13 @@ This ComfyUI workflow is a powerful tool for generating and editing images with 
 
 This sophisticated workflow provides a streamlined way to combine multiple custom LoRAs and use advanced inpainting techniques to achieve complex, multi-person compositions that are difficult to create with simpler methods.
 
-### Workflow
+### Examples
 
 ![App Screenshot](Examples/ComfyUI_00132_.png)
 
 
+![App Screenshot](Examples/ComfyUI_00238_.png)
 
+![App Screenshot](Examples/ComfyUI_temp_aheum_00010_.png)
 
 
